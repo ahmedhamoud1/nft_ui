@@ -1,16 +1,2 @@
-# nft_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# nft_ui A new Flutter project.
+![Apple iPhone 11 Pro Max PresentaWWtion (2)](https://user-images.githubusercontent.com/112031810/189579174-3482ef4b-d060-4a29-99ae-d7ca1a6d40b6.png)
